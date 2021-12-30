@@ -8,3 +8,7 @@ we want to do something like this
 ```
 some code that tests pandas
 ```
+
+* item 1
+* item 2
+
